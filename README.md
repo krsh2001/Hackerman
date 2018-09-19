@@ -12,9 +12,8 @@ Import the game as a project in your favorite Java IDE (we used IntelliJ to crea
 
 ### Prerequisites
 
-The most recent version of the [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-
-A Java IDE, we created this game using [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* The most recent version of the [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* A Java IDE, we created this game using [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Built With
 
