@@ -22,7 +22,8 @@ Import the game as a project in your favorite Java IDE (we used IntelliJ to crea
 
 ## Authors
 
-* **Surya Krishnan** [Github](https://github.com/krsh2001)
+* **Surya Krishnan** [Github](https://github.com/surya-krishnan)
+* **David Nash** [Github](https://github.com/david-nash)
 
 ## License
 
